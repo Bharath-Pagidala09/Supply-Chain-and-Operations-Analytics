@@ -1,4 +1,4 @@
-# Supply Chain & Operations Analytics — Delta Sky Broadcasting
+# Supply Chain & Operations Analytics - Delta Sky Broadcasting
 
 ## Overview
 This project presents a data-driven analysis of key operational processes 
